@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubh
-- 👀 I’m interested in Machine Learning and Data Science,CyberSecurity
+- 👀 I’m interested in Machine Learning and Data Science, Cyber Security.
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me : shubhgaur7833@gmail.com
 
